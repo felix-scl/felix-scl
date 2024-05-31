@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hola, Félix por aquí😺
+Soy Desarrollador Web y en un futuro, DevOps.
+</br>
+Me encantan los jueguitos, los gatos y andar en bici🚴‍♀️
 
-<!--
-**felix-scl/felix-scl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Lenguajes de programación
+![Lenguajes](https://skillicons.dev/icons?i=js,ts,py,cpp&perline=6)
 
-Here are some ideas to get you started:
+## Herramientas
+![Herramientas](https://skillicons.dev/icons?i=aws,linux,bash,mongodb,dynamodb,mysql,postgres,prisma,nodejs,npm,terraform,git,vite,html,css,vscode,pycharm,figma&perline=6)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frameworks/librerías
+![Frameworks y librerías](https://skillicons.dev/icons?i=nextjs,django,react,redux,tailwind,vite&perline=6)
