@@ -1,5 +1,5 @@
 ### Hola, Félix por aquí😺
-Soy Desarrollador Web y en un futuro, DevOps.
+Soy Fullstack Developer, con interés en diseños minimalistas y creación de APIs
 </br>
 Me encantan los jueguitos, los gatos y andar en bici🚴‍♀️
 
