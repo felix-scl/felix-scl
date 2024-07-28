@@ -1,6 +1,6 @@
 ### Hola, Félix por aquí😺
-Soy Fullstack Developer, con interés en diseños minimalistas y creación de APIs
-</br>
+Soy Fullstack Developer, con interés en diseños minimalistas y creación de APIs.
+<br>
 Me encantan los jueguitos, los gatos y andar en bici🚴‍♀️
 
 ## Lenguajes de programación 👨‍💻
