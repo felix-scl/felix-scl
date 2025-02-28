@@ -1,7 +1,7 @@
 ### Hola, Félix por aquí😺
 Soy Fullstack Developer, con interés en diseños minimalistas y creación de APIs.
 <br>
-Me encantan los jueguitos, los gatos y andar en bici🚴‍♀️
+Me encantan los jueguitos, los gatitos/perritos y andar en bici🚴‍♀️
 
 ## Lenguajes de programación 👨‍💻
 ![Lenguajes](https://skillicons.dev/icons?i=js,ts,py,cpp&perline=6)
